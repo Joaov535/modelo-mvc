@@ -1,0 +1,16 @@
+{
+    "description": "Criando meu MVC",
+    "authors": [
+        {
+            "name": "João Cruz",
+            "email": "joaovictorcruz535@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app",
+            "Core\\": "core"
+        }
+    },
+    "require": {}
+}
